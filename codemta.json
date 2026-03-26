@@ -8,7 +8,7 @@
     "description": "The 'tidyverse' is a set of packages that work in harmony\n    because they share common data representations and 'API' design. This\n    package is designed to make it easy to install and load multiple\n    'tidyverse' packages in a single step. Learn more about the 'tidyverse'\n    at <https://tidyverse.org>.",
     "name": "tidyverse: Easily Install and Load the 'Tidyverse'",
     "codeRepository": "https://github.com/tidyverse/tidyverse",
-    "issueTracker": "https://github.com/tidyverse/tidyverse/issues",
+    "issueTracker": "https://github.com/testverse/testverse/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
     "version": "1.2.1.9000",
     "programmingLanguage": {
